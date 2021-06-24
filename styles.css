@@ -24,6 +24,10 @@ p{
     margin-bottom: auto;
 }
 
+hr{
+    border-color: black;
+}
+
 .empresa{
     font-weight: bold;
 }
